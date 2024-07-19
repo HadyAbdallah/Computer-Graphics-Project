@@ -1,6 +1,6 @@
 # Graphic Project
 
-Implement 2D package
+C++ Implemention for 2D package
 
 ## Features
 - Change the background of window to be white 
